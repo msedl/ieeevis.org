@@ -49,7 +49,7 @@ contact: infovis_papers@ieeevis.org
 | Arvind Satyanarayan | *Massachusetts Institute of Technology, USA* |
 | Karen Schloss | *University of Wisonsin, USA* |
 | Heidrun Schumann | *University of Rostock, Germany* |
-| Michael Sedlmair | *Jacobs University Bremen, Germany* |
+| Michael Sedlmair | *University of Stuttgart, Germany* |
 | Jinwook Seo | *Seoul National University, Korea* |
 | Vidya Setlur | *Tableau Research, USA* |
 | Conglei Shi | *Airbnb Inc., USA* |
