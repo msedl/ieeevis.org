@@ -251,7 +251,7 @@ permalink: /year/2018/info/committees/conference-committee
     </tr>
     <tr>
       <td>Michael Sedlmair</td>
-      <td><i>University of Vienna</i></td>
+      <td><i>University of Stuttgart</i></td>
     </tr>
     <tr class='committee_section'>
       <th colspan='2'>BioVis Challenges Workshop</th>
